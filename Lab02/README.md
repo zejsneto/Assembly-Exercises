@@ -1,4 +1,4 @@
-# Assembly Exercises - Lab 1
+# Assembly Exercises - Lab 2
 
 ## Exercise 1
 
