@@ -1,0 +1,11 @@
+;(8ms = 8000microsegundos)
+DELAY:
+MOV R0,#205
+ROT:
+MOV R1, #18
+ROT2:
+DJNZ R1,ROT2
+DJNZ R0,ROT
+NOP
+NOP
+RET
