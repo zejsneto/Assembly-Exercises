@@ -1,0 +1,4 @@
+LB:
+CLR P1.0
+SETB P1.0
+SJMP LB
